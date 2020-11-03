@@ -1,1 +1,2 @@
-<h1>Service</h1>
+@extends('layout.app')
+@section('title','Service')

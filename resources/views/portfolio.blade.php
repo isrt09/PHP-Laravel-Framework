@@ -1,1 +1,2 @@
-<h1>Portfolio</h1>
+@extends('layout.app')
+@section('title','Portfolio')
