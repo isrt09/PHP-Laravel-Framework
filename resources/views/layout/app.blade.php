@@ -9,8 +9,8 @@
 </head>
 <body>
 	@include('layout.menu')
-	<div class="container">
-		<div class="row mt-5">
+	<div class="container-fluid">
+		<div class="row">
 			@yield('content')
 		</div>
 	</div>

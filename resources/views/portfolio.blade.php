@@ -3,7 +3,7 @@
 
 @section('content')
 <div class="container">
-	<div class="row">
+	<div class="row mt-5">
        <div class="col-md-4 p-1">
 	       <div class="m-1 h-100 card ">
 	            <img class="card-img" src="{{asset('img/laravel.jpg')}}" alt="Card image cap">
